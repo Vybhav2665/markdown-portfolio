@@ -1,4 +1,3 @@
-Replace this with a list of your favorite things.
 <ol>
   <li>Reading</li>
   <li>Movies</li>

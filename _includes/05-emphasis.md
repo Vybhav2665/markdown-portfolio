@@ -2,4 +2,4 @@
 _This will also be italic_
 
 **This text will be bold**
-_This will also be bold_
+__This will also be bold__

@@ -1,6 +1,4 @@
-<ol>
-  <li>Reading</li>
-  <li>Movies</li>
-  <li>Games</li>
-  <li>Music</li>
-</ol>
+1. Reading
+2. Movies
+3. Music
+4. Travelling
